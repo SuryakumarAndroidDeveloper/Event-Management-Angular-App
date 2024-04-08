@@ -1,3 +1,5 @@
+# setup comment
+npm install @angular/cli -g
 # App did't run means apply the comment in window cmd
 'set NODE_OPTIONS=--openssl-legacy-provider'
 
